@@ -1,0 +1,25 @@
+body {
+    background-color: #FFF;
+    margin: 30px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#container {
+    width: 550px;
+    height: 350px;
+    overflow: hidden;
+    background-color: #f9f6ff;
+    display: flex;
+    align-items: center;
+}
+
+#circle {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
